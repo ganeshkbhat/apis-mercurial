@@ -20,6 +20,14 @@
     "sinon": "^14.0.0",
     "unimported": "^1.22.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkbhat/apis-mercurial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ganeshkbhat/apis-mercurial/issues"
+  },
+  "homepage": "https://github.com/ganeshkbhat/apis-mercurial#readme",
   "author": "Ganesh",
   "license": "MIT"
 }
