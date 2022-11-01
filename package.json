@@ -13,9 +13,12 @@
     "require": "./index.js",
     "import": "./index.mjs"
   },
-  "dependencies": {},
   "devDependencies": {
     "chai": "^4.3.6",
+    "concurrency.js": "^0.0.1",
+    "fssys": "^1.0.1",
+    "get-imported": "^0.0.5",
+    "hasher-apis": "^0.0.1",
     "mocha": "^10.0.0",
     "sinon": "^14.0.0",
     "unimported": "^1.22.0"
